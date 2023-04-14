@@ -1158,10 +1158,12 @@ margin-right: 10px;
  .about {
      background-color: #fff;
      padding-top: 90px;
+	 
      
 }
  .about .about-box {
     text-align: left;
+	margin-bottom: 20px;
     
 }
  .about .about-box h2 {
@@ -1667,13 +1669,15 @@ padding-bottom: 20px;
  .copyright a:hover {
      color: #f4b328 ;
 }
-ul.submenu li a {
-	text-align: left;
+
 	
-}
-.submenu li {
+.submenu  {
 	background-color:#200769;
+	text-align: left;
 }
 
+.img-calendar-sec {
+    padding-bottom: 10px !important;
+}
 /** end footer **/
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/
